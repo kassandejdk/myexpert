@@ -116,7 +116,7 @@
         <div>
             <h1>Bienvenue sur <span style="color:rgb(34, 174, 239)">MyExpert</span></h1>
             <p>Le système expert pour la gestion de l'enseignement supérieur</p>
-            <a href="{{ route('sparql') }}" style="color:rgb(0, 0, 0)"><button class="btn" >Tester</button></a>
+            <a href="{{ route('accueil') }}" style="color:rgb(0, 0, 0)"><button class="btn" >Tester</button></a>
         </div>
     </section>
 

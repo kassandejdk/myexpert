@@ -69,11 +69,6 @@
                             @endif
                         </td>
                         <td>
-                            <!-- Bouton Modifier -->
-                            <button class="btn btn-warning btn-sm" data-bs-toggle="modal" data-bs-target="#editModal{{ $loop->index }}">
-                                Modifier
-                            </button>
-                            <!-- Bouton Supprimer -->
                             
                             <button class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal{{ $loop->index }}">
                                 Supprimer
